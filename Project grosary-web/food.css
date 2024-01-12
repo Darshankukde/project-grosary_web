@@ -1,0 +1,172 @@
+.h1{
+	height: 10vh;
+	width: 100%;
+	background-color: lightgray;
+	border-radius: 22px;
+}
+.h2{
+	height: 10vh;
+	width: 15%;
+}
+.dk{
+	display: flex;
+	margin-left: 10%;
+}
+.h3{
+	width: 40%;
+	background-color:white;
+	height: 5vh;
+	margin-top: 1VH;
+	
+}
+.h4{
+	height: 5vh;
+	width: 9%;
+	background-color: yellow;
+	margin-top: 1VH;
+}
+.h5{
+	height: 5vh;
+	width: 6%;
+	margin-top: 1VH;
+	background-color: yellow;
+}
+.h6{
+    height: 5vh;
+	width: 6%;
+}
+.h7{
+	margin-bottom: -1vh;
+}
+.k1{
+	height: 25vh;
+	width: 80%;
+	background-color: lightgray;
+	margin-top: 2vh;
+	margin-left: 10%;
+}
+.k2{
+	height: 25vh;
+	width: 100%;
+}
+.k3{
+	height: 22vh;
+	width: 26%;
+	background-color: lightgray;
+	margin-left: 4%;
+	margin-top: 2vh;
+}
+.k4{
+	display: flex;
+	margin-left: 7%;
+
+}
+.k5{
+	width: 100%;
+	height: 22vh;
+}
+.d1{
+	width:10%;
+	height: 20vh;
+	background-color: lightgray;
+	margin-top: 2vh;
+	margin-left: %;
+
+}
+.d2{
+	display: flex;
+	margin-left: 9%;
+}
+.d3{
+	width: 100%;
+	height: 20vh;
+
+}
+.n1{
+	margin-left: 9%;
+}
+.n2{
+	display: flex;
+	margin-left: 9%;
+}
+.n4{
+	height: 22vh;
+	width: 20%;
+	background-color: lightgray;
+	margin-left: 2%;
+	margin-top: 2vh;
+	border-radius: 20px;
+}
+.n5{
+	width: 100%;
+	height: 22vh;
+	border-radius: 20px;
+}
+.p1{
+	height: 27vh;
+	width: 80%;
+	background-color: whitesmoke;
+	margin-left: 10%;
+	margin-top: 2vh;
+	display: flex;
+
+	
+}
+.p2{
+	height: 22vh;
+	width: 16%;
+	background-color:white;
+	margin-left: 2%;
+	top: 2vh;
+	position: relative;
+	box-shadow: 2px 3px;
+	
+
+}
+.p3{
+	display: flex;
+}
+.p4{
+	width: 100%;
+	height: 22vh;
+}
+.m1{
+	width: 18%;
+	height: 22vh;
+	background-color: whitesmoke;
+	
+}
+.m2{
+	width: 100%;
+	height: 22vh;
+
+
+}
+.m3{
+	display: flex;
+	margin-left: 12%;
+}
+.m4{
+	width: 12%;
+	height: 14vh;
+	background-color: yellow;
+}
+.m5{
+	width: 100%;
+	height: 14vh;
+}
+.m6{
+	
+	
+}
+.j1{
+	height: 40vh;
+	width: 80%;
+	margin-left: 9%;
+	background-color: lightgray;
+	margin-top: 2vh;
+}
+.j2{
+	height: 40vh;
+	width: 100%;
+}
